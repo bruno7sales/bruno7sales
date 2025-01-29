@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Buscando oportunidades de emprego
+- 🔭 Software Engineer
 - 🌱 Estudando Engenharia de Software - UNDF
 - 😄 Pronomes: ele/dele
  <!--
