@@ -39,8 +39,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
 
   <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{bruno7sales}/count.svg" /></p> 
-  <br>
-</div>
+
   
